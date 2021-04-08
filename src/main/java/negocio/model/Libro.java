@@ -1,4 +1,4 @@
-package clases;
+package negocio.model;
 
 import java.util.Comparator;
 

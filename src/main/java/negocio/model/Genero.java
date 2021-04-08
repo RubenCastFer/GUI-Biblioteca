@@ -1,4 +1,4 @@
-package clases;
+package negocio.model;
 
 public enum Genero {
 	NOVELA,

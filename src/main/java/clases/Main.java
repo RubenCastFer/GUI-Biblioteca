@@ -13,6 +13,9 @@ import  java.util.List ;
 import  java.util.Scanner ;
 import java.util.regex.Matcher ;
 import java.util.regex.Pattern ;
+
+import negocio.model.Genero;
+import negocio.model.Libro;
 public class Main {
     
     public static void main (String [] args) {
